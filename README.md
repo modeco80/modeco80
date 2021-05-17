@@ -8,4 +8,6 @@ If I *really need to*, I know some TypeScript/JavaScript and C#, but do *not* pr
 
 And no, I don't use Rust, and if you make even a meme RIIR issue, you will get bent.
  
-I bounce around lots of projects, some private, some public.
+I bounce around lots of projects, some (currently) private, some public.
+
+Check out my [blog](https://github.com/modeco80/modeco80/tree/master/blog) I sometimes add posts to!
