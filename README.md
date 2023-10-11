@@ -6,4 +6,4 @@ I mainly write in C++.
  
 I bounce around lots of projects, some (currently) private, some public.
 
-<h1>MY PERSONAL PROJECTS ON GITHUB WILL NO LONGER BE UPDATED. PLEASE SEE [git.crustywindo.ws](https://git.crustywindo.ws) FOR MY PERSONAL CODE</h1>
+<h1>MY PERSONAL PROJECTS ON GITHUB WILL NO LONGER BE UPDATED. PLEASE SEE https://git.crustywindo.ws FOR MY PERSONAL CODE</h1>
